@@ -16,7 +16,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run scripts:
-- python pure_python_grouped_stats.py --file fb_ads_president_scored_anon.csv
+- python pure_python_grouped_stats.py --file fb_ads_president_scored_anon.csv (Link: https://drive.google.com/file/d/1UPo11lH2Mlk2cnLtjv8P9XqlKitms-gp/view )
 - python pandas_grouped_stats.py --file fb_ads_president_scored_anon.csv
 - python polars_grouped_stats.py --file fb_ads_president_scored_anon.csv
 
